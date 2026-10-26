@@ -1,0 +1,9 @@
+{
+  "name": "aavin-milk-app",
+  "version": "1.0.0",
+  "description": "Aavin milk procurement price & billing app (frontend + backend)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED"
+}
